@@ -1,0 +1,1 @@
+This text is now encoded in windows 1251, and is saved with utf8 encoding
